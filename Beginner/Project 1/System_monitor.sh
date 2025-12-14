@@ -1,4 +1,5 @@
 #!/bin/bash
+##########################################
 # Defining the threshoalds
 CPU_THRESHOLD=80
 MEMORY_THRESHOLD=80
