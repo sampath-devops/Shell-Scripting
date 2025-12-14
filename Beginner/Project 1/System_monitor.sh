@@ -1,5 +1,7 @@
 #!/bin/bash
 ##########################################
+#AUTHOR: Sampath
+# This script will display the resources like CPU, Memory & Disk utilizations
 # Defining the threshoalds
 CPU_THRESHOLD=80
 MEMORY_THRESHOLD=80
